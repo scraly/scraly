@@ -14,7 +14,7 @@ Ok so I'm a developer since more than 14 years, who love to:
 * give talks
 * ...
 
-I love to code and work on Cloud technologies
+I love to code and work on Cloud technologies (Kubernetes, Istio, AWS, GCP, Terraform, Prometheus...)
 
 #### Books
 
