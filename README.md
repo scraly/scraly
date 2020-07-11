@@ -4,6 +4,7 @@ Welcome in my profile ^^
 
 #### Who am I?
 
+I'm Aurélie and I'm:
 * Google Developer Expert on Cloud
 * Duchess France, Toulouse Data Science Leader/Organizer
 * Speaker & sketchnoter newbie
@@ -26,6 +27,7 @@ I love to code and work on:
 * AWS/GCP
 * Terraform
 * Prometheus
+* Jenkins
 
 #### Books
 
