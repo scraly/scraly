@@ -8,13 +8,24 @@ Welcome in my profile ^^
 * Duchess France, Toulouse Data Science Leader/Organizer
 * Speaker & sketchnoter newbie
 
-Ok so I'm a developer since more than 14 years, who love to:
+I'm a developer since more than 14 years, who love to:
 * share with others
-* write articles especially on [dev.to](https://dev.to/aurelievache), dzone and Programmez! magazine
+* write articles especially on [dev.to](https://dev.to/aurelievache), dzone and Programmez! magazine (and more...)
 * give talks
 * ...
 
-I love to code and work on Cloud technologies (Kubernetes, Istio, AWS, GCP, Terraform, Prometheus...)
+### Tech
+
+Microservices, containerized apps (API, CLI), HTTP, gRPC...
+
+I love to code and work on:
+* Go
+* Docker
+* Kubernetes
+* Istio
+* AWS/GCP
+* Terraform
+* Prometheus
 
 #### Books
 
