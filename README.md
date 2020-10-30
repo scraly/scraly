@@ -34,6 +34,14 @@ I love to code and work on:
 * [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache#uCxcr)
 * [Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
 
+#### Talks
+
+* [Create & Distribute a plugin for Kubernetes? Easy!](http://bit.ly/kubernetes-plugin-krew)
+* [Common tips & mistakes in Go and how to solve it](https://docs.google.com/presentation/d/1RIzB0mW7XbaoarZVoRQREPE4ZBEY9wsbaGE97Ju6G-U/)
+* [Docker, Kubernetes & Istio: Tips, tricks & tools](http://bit.ly/docker-k8s-Istio-tips-tricks)
+* Moving forward the impostor syndrome
+* Dans les coulisses de Google BigQuery
+
 <!--
 **scraly/scraly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
