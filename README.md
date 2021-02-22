@@ -6,13 +6,16 @@ Welcome in my profile ^^
 
 I'm Aurélie and I'm:
 * Google Developer Expert on Cloud
+* CKAD (Kubernetes for Developers) certified
 * Duchess France, Toulouse Data Science Leader/Organizer
-* Speaker & sketchnoter newbie
+* Speaker, writer & sketchnoter
 
-I'm a developer since more than 14 years, who love to:
+I'm a developer since more than 15 years, who love to:
 * share with others
-* write articles especially on [dev.to](https://dev.to/aurelievache), dzone and Programmez! magazine (and more...)
+* write articles especially on [dev.to](https://dev.to/aurelievache), DZone and Programmez! magazine (and more...)
 * give talks
+* draw sketchnotes
+* record [technical videos](https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg)
 * ...
 
 ### Tech
@@ -33,6 +36,7 @@ I love to code and work on:
 
 * [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache#uCxcr)
 * [Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
+* [Understanding Docker in a visual way](https://gumroad.com/aurelievache#YTLzM)
 
 #### Talks
 
@@ -41,6 +45,12 @@ I love to code and work on:
 * [Docker, Kubernetes & Istio: Tips, tricks & tools](http://bit.ly/docker-k8s-Istio-tips-tricks)
 * Moving forward the impostor syndrome
 * Dans les coulisses de Google BigQuery
+
+#### Contact me
+
+* [Twitter](https://twitter.com/aurelievache)
+* [LinkedIn](https://www.linkedin.com/in/aurelievache/)
+* [Youtube](https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg)
 
 <!--
 **scraly/scraly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
