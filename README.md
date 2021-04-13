@@ -5,6 +5,7 @@ Welcome in my profile ^^
 #### Who am I?
 
 I'm Aurélie and I'm:
+* a Cloud Engineer (I prefer "Cloud Helper") and DevRel at Stack Labs
 * Google Developer Expert on Cloud
 * CKAD (Kubernetes for Developers) certified
 * Duchess France, Toulouse Data Science Leader/Organizer
