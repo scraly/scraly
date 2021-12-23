@@ -58,6 +58,15 @@ I love to code and work on:
 - [Understanding Kubernetes in a visual way - 20 - Useful tools part 2 | Kubernetes en français](https://www.youtube.com/watch?v=M9CN-VEBcME)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
   
+## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
+ <!-- DEVTO-BLOG-LIST:START -->
+- [Understanding Docker in a visual way (in 🎥 video): part 1 – Images ](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-1-images-4fbn)
+- [Learning Go by examples: part 8 - Automatically cross-compile & release your Go app ](https://dev.to/aurelievache/learning-go-by-examples-part-8-automatically-cross-compile-release-your-go-app-457a)
+- [Learning Go by examples: part 7 - Create a cross-platform GUI/Desktop app in Go ](https://dev.to/aurelievache/learning-go-by-examples-part-7-create-a-cross-platform-gui-desktop-app-in-go-44j1)
+- [Learning Go by examples: part 5 - Create a Game Boy Advance (GBA) game in Go ](https://dev.to/aurelievache/learning-go-by-examples-part-5-create-a-game-boy-advance-gba-game-in-go-5944)
+- [Learning Go by examples: part 6 - Create a gRPC app in Go ](https://dev.to/aurelievache/learning-go-by-examples-part-6-create-a-grpc-app-in-go-2ja3)
+<!-- DEVTO-BLOG-LIST:END -->
+ 
 ## Books
 
 * [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache#uCxcr)
