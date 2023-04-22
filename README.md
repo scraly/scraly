@@ -53,16 +53,16 @@ I love to code and work on:
  ## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 04 - Dangling images](https://www.youtube.com/watch?v=JygkQiKzve8)
-- [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 03 - Build images](https://www.youtube.com/watch?v=3IFixKo9b5I&t=4s)
-- [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 02 - Layers 🍰](https://www.youtube.com/watch?v=zdFFRQuKgrQ)
-- [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 01 - Images 🎂](https://www.youtube.com/watch?v=3hol91BkYHU&t=8s)
-- [Understanding Kubernetes in a visual way - 20 - Useful tools part 2 | Kubernetes en français](https://www.youtube.com/watch?v=M9CN-VEBcME)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/AurelieVache)
   
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://dev.to/aurelievache/)
  
 ## Books
 
