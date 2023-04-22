@@ -17,15 +17,11 @@ Books: https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6
 
 I'm Aurélie and I'm:
 
-<a href=""><img src="https://developers.google.com/profile/badges/community/gde/badge.svg" alt="GDE" style="width:120px;"/></a> a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
- 
-<a href="https://www.cncf.io/people/ambassadors/"><img src="https://www.cncf.io/wp-content/uploads/2020/08/cncf_ambassador-768x628-1.png" alt="CNCF ambassador" style="width:120px;"/></a> a CNCF Ambassador
-  
-<a href="https://www.docker.com/community/captains
-"><img src="https://avatars.githubusercontent.com/u/18412632?s=200&v=4" alt="Docker Captain" style="width:120px;"/></a> a Docker Captain
-  
+* a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
+* a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
+* a [Docker Captain](https://www.docker.com/community/captains/)
 * CKAD (Kubernetes for Developers) certified
-* Duchess France, Toulouse Data Science Leader/Organizer
+* Duchess France, [Camping des Speakers](https://camping-speakers.fr/) Leader/Organizer
 * Speaker, writer & sketchnoter
 
 I'm a developer since more than 17 years, who love to:
@@ -34,21 +30,15 @@ I'm a developer since more than 17 years, who love to:
 * give talks
 * draw sketchnotes
 * record [technical videos](https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg)
-* ...
+* simply help people ❤️
 
-## Tech
+### Languages and Tools:
 
-Microservices, containerized apps (API, CLI), HTTP, gRPC...
-
-I love to code and work on:
-* Go
-* Docker
-* Kubernetes
-* Istio
-* AWS/GCP
-* Terraform
-* Prometheus
-* Jenkins
+[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/istio/istio-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />][webdevplaylist]
 
  ## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
