@@ -65,6 +65,11 @@ I love to code and work on:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 16 – Stats](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-16-stats-o51)
+- [Let&#39;s discover: docker init command](https://dev.to/aurelievache/lets-discover-docker-init-command-3cef)
+- [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 15 – Clean &amp; Purge](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-15-clean-purge-1c07)
+- [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 14 – Debugging/Troubleshooting](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-14-debuggingtroubleshooting-5817)
+- [Understanding Terraform: part 1 – What is Terraform?](https://dev.to/aurelievache/understanding-terraform-part-1-what-is-terraform-55ie)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
