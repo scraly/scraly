@@ -34,10 +34,10 @@ I'm a developer since more than 17 years, who love to:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" style="padding-right:10px;" />][webdevplaylist]
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" style="padding-right:10px;" />
+<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" style="padding-right:10px;" />
 
  ## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
