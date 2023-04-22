@@ -5,9 +5,11 @@ I am been working as a Developer and Ops for over 16 years. Cloud enthusiast and
 
 I'm one of the leaders of [Duchess France](https://www.duchess-france.org/), an association that promotes women developers and women working in IT.
 
-Conferences and meetups organizer since 2016. Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
+Conferences and meetups organizer since 2016 (currently for [Le Camping des Speakers](https://camping-speakers.fr/)). Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
 
 I created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker in a visual way" in sketchnotes and videos.
+
+Books: https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6
 
 <a href="https://twitter.com/aurelievache"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;<a href="https://www.youtube.com/c/AurelieVache"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
 
@@ -26,7 +28,7 @@ I'm Aurélie and I'm:
 * Duchess France, Toulouse Data Science Leader/Organizer
 * Speaker, writer & sketchnoter
 
-I'm a developer since more than 15 years, who love to:
+I'm a developer since more than 17 years, who love to:
 * share with others
 * write articles especially on [dev.to](https://dev.to/aurelievache), DZone and Programmez! magazine (and more...)
 * give talks
