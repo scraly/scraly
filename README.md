@@ -45,11 +45,11 @@ I'm a developer since more than 17 years, who love to:
 ## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [KubeHuddle trailer - Tips to fight impostor syndrome](https://www.youtube.com/watch?v=N33l5k8eIt0)
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 16 - Stats](https://www.youtube.com/watch?v=IKMedfrGVnE)
 - [Let's discover: docker init command](https://www.youtube.com/watch?v=9CDnTW_uIOM)
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 15 - Clean & Purge](https://www.youtube.com/watch?v=jUNBCkTamWY)
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 14 - Debugging](https://www.youtube.com/watch?v=TomCU4RHJCY)
-- [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 13 - Privileged mode](https://www.youtube.com/watch?v=x_ID_D96GLM)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/AurelieVache)
