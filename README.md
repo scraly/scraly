@@ -86,6 +86,10 @@ I'm a developer since more than 17 years, who love to:
 * Moving forward the impostor syndrome
 * Dans les coulisses de Google BigQuery
 
+## Few stats
+
+[![scraly's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraly)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact me
 
 * [Twitter](https://twitter.com/aurelievache)
