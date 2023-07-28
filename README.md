@@ -1,9 +1,9 @@
 ## Hi, I'm Aurélie Vache 👋
 
 I'm a DevRel at [OVHcloud](https://www.ovhcloud.com/fr/) in Toulouse, France.
-I am been working as a Developer and Ops for over 17 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
+I have been working as a Developer and Ops for over 17 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
 
-I'm one of the leaders of [Duchess France](https://www.duchess-france.org/), an association that promotes women developers and women working in IT.
+Inclusion, diversity and accessibility are topics that matters for me so I help as I can since several years as mentor & leader in several communities.
 
 Conferences and meetups organizer since 2016 (currently for [Le Camping des Speakers](https://camping-speakers.fr/)). Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
 
