@@ -93,7 +93,7 @@ I'm a developer since more than 17 years, who love to:
 * [Common tips & mistakes in Go and how to solve it](https://docs.google.com/presentation/d/1RIzB0mW7XbaoarZVoRQREPE4ZBEY9wsbaGE97Ju6G-U/)
 * [Docker, Kubernetes & Istio: Tips, tricks & tools](http://bit.ly/docker-k8s-Istio-tips-tricks)
 * [Tips to fight impostor syndrome](https://noti.st/aurelievache/pgjKpF/tips-to-fight-impostor-syndrome)
-* Dans les coulisses de Google BigQuery
+* [Dans les coulisses de Google BigQuery](https://noti.st/aurelievache/Gp4J7u/dans-les-coulisses-de-google-bigquery)
 
 ## Few stats
 
