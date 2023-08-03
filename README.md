@@ -86,7 +86,7 @@ I'm a developer since more than 17 years, who love to:
 * [Common tips & mistakes in Go and how to solve them](https://noti.st/aurelievache/cCuew3/common-tips-mistakes-in-go-and-how-to-solve-them)
 * [L’Intelligence Artificielle au secours de l’Accessibilité](https://noti.st/aurelievache/3UWqQO/lintelligence-artificielle-au-secours-de-laccessibilite)
 * [(Et si on apprenait à) Apprendre et partager autrement](https://noti.st/aurelievache/D2cBX0/et-si-on-apprenait-a-apprendre-et-partager-autrement)
-* [Mais, c’est quoi le DevRel ?](https://noti.st/aurelievache/71J7b9/mais-cest-quoi-le-devrel)
+* [🦄 Mais, c’est quoi le DevRel ?](https://noti.st/aurelievache/71J7b9/mais-cest-quoi-le-devrel)
 * [✏️ La pensée visuelle a changé ma vie](https://noti.st/aurelievache/qkioAv/la-pensee-visuelle-a-change-ma-vie)
 * [Au secours je suis speaker 😱 ! Comment bien se préparer ?](https://noti.st/aurelievache/Vu1yqK/au-secours-je-suis-speaker-comment-bien-se-preparer)
 * [Docker Extensions : nos meilleurs choix](https://noti.st/aurelievache/TionB7/docker-extensions-nos-meilleurs-choix)
