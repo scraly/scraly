@@ -28,7 +28,7 @@ I'm Aurélie and I'm:
 I'm a developer since more than 17 years, who love to:
 * share with others
 * write articles especially on [dev.to](https://dev.to/aurelievache), DZone and Programmez! magazine (and more...)
-* give talks
+* give [talks](https://noti.st/aurelievache)
 * draw sketchnotes
 * record [technical videos](https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg)
 * simply help people ❤️
