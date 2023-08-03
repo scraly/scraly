@@ -22,7 +22,7 @@ I'm Aurélie and I'm:
 * a [Docker Captain](https://www.docker.com/community/captains/)
 * a [WomenTechmakers Ambassador](https://developers.google.com/womentechmakers/ambassadors)
 * CKAD (Kubernetes for Developers) certified
-* Duchess France, [Camping des Speakers](https://camping-speakers.fr/) Leader/Organizer
+* [Camping des Speakers](https://camping-speakers.fr/) Organizer, ex [Toulouse Data Science](https://www.tlse-data-science.fr/) & [DevFest Toulouse](https://devfesttoulouse.fr/) Organizer
 * Speaker, writer & sketchnoter
 
 I'm a developer since more than 17 years, who love to:
