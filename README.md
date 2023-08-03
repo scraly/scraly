@@ -20,6 +20,7 @@ I'm Aurélie and I'm:
 * a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
 * a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
 * a [Docker Captain](https://www.docker.com/community/captains/)
+* a [WomenTechmakers Ambassador](https://developers.google.com/womentechmakers/ambassadors)
 * CKAD (Kubernetes for Developers) certified
 * Duchess France, [Camping des Speakers](https://camping-speakers.fr/) Leader/Organizer
 * Speaker, writer & sketchnoter
