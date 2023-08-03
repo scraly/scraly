@@ -40,6 +40,9 @@ I'm a developer since more than 17 years, who love to:
 <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" style="padding-right:10px;" />
 <img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" style="padding-right:10px;" />
+
+
 <br />
 <br />
 
