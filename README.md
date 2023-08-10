@@ -103,6 +103,9 @@ I'm a developer since more than 17 years, who love to:
 
 [![scraly's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraly)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=scraly/developers-conferences-agenda&type=Date)](https://star-history.com/#scraly/developers-conferences-agenda&Date)
+
+
 ## Contact me
 
 * [Twitter](https://twitter.com/aurelievache)
