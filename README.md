@@ -61,11 +61,11 @@ I'm a developer since more than 17 years, who love to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Learning Go by examples: part 12 - Deploy Go apps in Go with Pulumi](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-pulumi-1cim)
 - [Learning Go by examples: part 11 - Generate a Go SDK &lpar;API client library&rpar; from your Go REST API](https://dev.to/aurelievache/learning-go-by-examples-part-11-generate-a-go-sdk-api-client-library-from-your-go-rest-api-23k4)
 - [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 - [developers.events: Maintaining a GitHub repository - What have I learned in 7 years?](https://dev.to/aurelievache/developersevents-maintaining-a-github-repository-what-have-i-learned-in-7-years-5fk9)
 - [Understanding Kubernetes: part 48 – Kubernetes 1.27 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-48-kubernetes-127-changelog-1alk)
-- [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 16 – Stats](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-16-stats-o51)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
