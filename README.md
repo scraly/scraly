@@ -61,11 +61,11 @@ I'm a developer since more than 17 years, who love to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Git par l&#39;exemple - Cherie, ça va cherry-picker !](https://dev.to/aurelievache/git-par-lexemple-cherie-ca-va-cherry-picker--37c8)
 - [Understanding Docker: part 43 – Init &amp; Dockerize an app](https://dev.to/aurelievache/understanding-docker-part-43-init-dockerize-an-app-3fmn)
 - [Understanding Kubernetes: part 49 – Kubernetes 1.28 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-49-kubernetes-128-changelog-bb0)
 - [Learning Go by examples: part 12 - Deploy Go apps in Go with Pulumi](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-pulumi-1cim)
 - [Learning Go by examples: part 11 - Generate a Go SDK &lpar;API client library&rpar; from your Go REST API](https://dev.to/aurelievache/learning-go-by-examples-part-11-generate-a-go-sdk-api-client-library-from-your-go-rest-api-23k4)
-- [Understanding Docker: part 42 – Docker Scout](https://dev.to/aurelievache/understanding-docker-part-42-docker-scout-o2a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
