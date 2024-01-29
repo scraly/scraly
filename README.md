@@ -62,11 +62,11 @@ I've been a developer for more than 18 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go/Golang: part 1 – Variable](https://dev.to/aurelievache/understanding-gogolang-part-1-variable-1eim)
 - [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 17 – Operate container](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-17-operate-container-56ia)
 - [2023 in review... What a year, again and again!!](https://dev.to/aurelievache/2023-in-review-what-a-year-again-and-again-51f2)
 - [Understanding Kubernetes: part 50 – Kubernetes 1.29 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-50-kubernetes-129-changelog-4c55)
 - [Git par l&#39;exemple - Cherie, ça va cherry-picker !](https://dev.to/aurelievache/git-par-lexemple-cherie-ca-va-cherry-picker--37c8)
-- [Understanding Docker: part 43 – Init &amp; Dockerize an app](https://dev.to/aurelievache/understanding-docker-part-43-init-dockerize-an-app-3fmn)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
