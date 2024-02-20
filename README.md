@@ -62,11 +62,11 @@ I've been a developer for more than 18 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go: part 2 – Constant](https://dev.to/aurelievache/understanding-go-part-2-constant-4ma3)
 - [Tips for Terraform acceptance test: Disable test caching in Go](https://dev.to/aurelievache/tips-for-terraform-acceptance-test-disable-test-caching-in-go-52h0)
 - [Understanding Go: part 1 – Variable](https://dev.to/aurelievache/understanding-gogolang-part-1-variable-1eim)
 - [Understanding Docker in a visual way &lpar;in 🎥 video&rpar;: part 17 – Operate container](https://dev.to/aurelievache/understanding-docker-in-a-visual-way-in-video-part-17-operate-container-56ia)
 - [2023 in review... What a year, again and again!!](https://dev.to/aurelievache/2023-in-review-what-a-year-again-and-again-51f2)
-- [Understanding Kubernetes: part 50 – Kubernetes 1.29 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-50-kubernetes-129-changelog-4c55)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
