@@ -62,11 +62,11 @@ I've been a developer for more than 18 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go: part 5 – For](https://dev.to/aurelievache/understanding-go-part-5-for-4a1o)
 - [Learning Go by examples: part 12 - Deploy Go apps in Go with CDK for Terraform &lpar;CDKTF&rpar;](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-cdk-for-terraform-cdktf-533b)
 - [Understanding Go: part 4 – Switch](https://dev.to/aurelievache/understanding-go-part-4-switch-4lcd)
 - [Understanding Go: part 3 – If](https://dev.to/aurelievache/understanding-go-part-3-if-1ofg)
 - [Understanding Go: part 2 – Constant](https://dev.to/aurelievache/understanding-go-part-2-constant-4ma3)
-- [Tips for Terraform acceptance test: Disable test caching in Go](https://dev.to/aurelievache/tips-for-terraform-acceptance-test-disable-test-caching-in-go-52h0)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
