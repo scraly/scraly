@@ -62,11 +62,11 @@ I've been a developer for more than 18 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Go: part 9 – Slice](https://dev.to/aurelievache/understanding-go-part-9-slice-2klo)
 - [Understanding Go: part 8 – Map](https://dev.to/aurelievache/understanding-go-part-8-map-4h16)
 - [Understanding Go: part 7 – Array](https://dev.to/aurelievache/understanding-go-part-7-array-1afo)
 - [Understanding Go: part 6 – For ... range](https://dev.to/aurelievache/understanding-go-part-6-for-range-12k1)
 - [Understanding Go: part 5 – For](https://dev.to/aurelievache/understanding-go-part-5-for-4a1o)
-- [Learning Go by examples: part 12 - Deploy Go apps in Go with CDK for Terraform &lpar;CDKTF&rpar;](https://dev.to/aurelievache/learning-go-by-examples-part-12-deploy-go-apps-in-go-with-cdk-for-terraform-cdktf-533b)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
