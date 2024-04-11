@@ -51,7 +51,7 @@ I've been a developer for more than 18 years, who loves to:
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 17 - Copie et (un)pause](https://www.youtube.com/watch?v=uRQ7Qm_0BZ8)
-- [KubeHuddle trailer - Tips to fight impostor syndrome](https://www.youtube.com/watch?v=N33l5k8eIt0)
+- [KubeHuddle 2023 trailer - Tips to fight impostor syndrome](https://www.youtube.com/watch?v=N33l5k8eIt0)
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 16 - Stats](https://www.youtube.com/watch?v=IKMedfrGVnE)
 - [Let's discover: docker init command](https://www.youtube.com/watch?v=9CDnTW_uIOM)
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 15 - Clean & Purge](https://www.youtube.com/watch?v=jUNBCkTamWY)
