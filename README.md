@@ -1,11 +1,11 @@
 ## Hi, I'm Aurélie Vache 👋
 
-I'm a DevRel at [OVHcloud](https://www.ovhcloud.com/fr/) in Toulouse, France.
+I'm a Developer Advocate (DevRel) at [OVHcloud](https://www.ovhcloud.com/fr/) in Toulouse, France.
 I have been working as a Developer and Ops for over 18 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
 
 Inclusion, diversity and accessibility are topics that matters for me so I help as I can since several years as mentor & leader in several communities.
 
-Conferences and meetups organizer since 2016 (currently for [Le Camping des Speakers](https://camping-speakers.fr/)). Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
+Conferences and meetups organizer since 2016. Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
 
 I created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker in a visual way" in sketchnotes and videos.
 
@@ -23,7 +23,7 @@ I'm Aurélie and I'm:
 * a [GitPod Community Hero](https://www.gitpod.io/community/heroes)
 * a [WomenTechmakers Ambassador](https://developers.google.com/womentechmakers/ambassadors)
 * CKAD (Kubernetes for Developers) certified
-* [Camping des Speakers](https://camping-speakers.fr/) Organizer, ex [Toulouse Data Science](https://www.tlse-data-science.fr/) & [DevFest Toulouse](https://devfesttoulouse.fr/) Organizer
+* Ex [Camping des Speakers](https://camping-speakers.fr/) & [Toulouse Data Science](https://www.tlse-data-science.fr/) & [DevFest Toulouse](https://devfesttoulouse.fr/) Organizer
 * Speaker, writer & sketchnoter
 
 I've been a developer for more than 18 years, who loves to:
@@ -47,7 +47,7 @@ I've been a developer for more than 18 years, who loves to:
 <br />
 <br />
 
-## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube ChannelDocker" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
+## <a href="https://www.youtube.com/channel/UCrRk0kOP58lBMl9B8ZS8Vlg"><img src="https://icons.getbootstrap.com/assets/icons/youtube.svg" title="YouTube Channel" alt="Youtube Channel" width="30"/> </a>Recent Videos on YouTube
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [[Comprendre Docker en 2 minutes 🇫🇷] Understanding Docker in a visual way - 17 - Copie et (un)pause](https://www.youtube.com/watch?v=uRQ7Qm_0BZ8)
@@ -59,7 +59,7 @@ I've been a developer for more than 18 years, who loves to:
 
 ➡️ [more videos...](https://www.youtube.com/c/AurelieVache)
   
-## <a href="https://dev.to/aurelievache"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
+## <a href="https://dev.to/aurelievache"><img src="https://github.com/scraly/scraly/blob/master/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Docker: part 44 – Build checks images](https://dev.to/aurelievache/understanding-docker-part-44-build-checks-images-3aa9)
@@ -71,19 +71,21 @@ I've been a developer for more than 18 years, who loves to:
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
  
-## Books
+## <img src="https://icons.getbootstrap.com/assets/icons/book.svg" title="Books" alt="Books" width="25"/> Books
 
-### <img src="https://cdn.worldvectorlogo.com/logos/amazon-icon.svg" title="Books" alt="Books" width="30"/> Paperback books on Amazon:
+### <img src="https://icons.getbootstrap.com/assets/icons/amazon.svg" title="Amazon" alt="Amazon" width="30"/> Paperback books on Amazon:
 
-* [Understanding Kubernetes in a visual way](https://www.amazon.com/Understanding-Kubernetes-visual-way-sketchnotes/dp/B0BB619188?ref_=ast_author_dp)
-* [Understanding Docker in a visual way](https://www.amazon.com/Understanding-Docker-visual-way-sketchnotes/dp/B0BT6ZXR1W/ref=rw_dp_pbnx_fo_thb_2)
+* [Understanding Kubernetes in a visual way](https://www.amazon.com/Understanding-Kubernetes-visual-way-sketchnotes/dp/B0BB619188)
+* [Understanding Docker in a visual way](https://www.amazon.com/Understanding-Docker-visual-way-sketchnotes/dp/B0BT6ZXR1W)
+* [Understanding (& surviving) travel in a visual way: Vis ma vie de chat noir](https://www.amazon.com/Understanding-surviving-travel-visual-way/dp/B0CRVM8P2Z)
 
 ### Digital books on Gumroad:
 * [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache#uCxcr)
-* [Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
 * [Understanding Docker in a visual way](https://gumroad.com/aurelievache#YTLzM)
+* [Understanding (& surviving) travel in a visual way: Vis ma vie de chat noir](https://aurelievache.gumroad.com/l/understanding-travel-visual-way-fr?layout=profile)
+* [Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
 
-## Talks
+## <img src="https://icons.getbootstrap.com/assets/icons/mic-fill.svg" title="Talks" alt="Talks" width="25"/> Talks
 
 * [Plongeons dans la création d’un provider Terraform](https://noti.st/aurelievache/jHXxbW/plongeons-dans-la-creation-dun-provider-terraform)
 * [Kubernetes : le coeur de la meule … comme vous ne l’avez jamais vu](https://noti.st/aurelievache/LbGlTv/kubernetes-le-coeur-de-la-meule-comme-vous-ne-lavez-jamais-vu)
@@ -100,7 +102,7 @@ I've been a developer for more than 18 years, who loves to:
 * [Tips to fight impostor syndrome](https://noti.st/aurelievache/pgjKpF/tips-to-fight-impostor-syndrome)
 * [Dans les coulisses de Google BigQuery](https://noti.st/aurelievache/Gp4J7u/dans-les-coulisses-de-google-bigquery)
 
-## Few stats
+## <img src="https://icons.getbootstrap.com/assets/icons/bar-chart-fill.svg" title="Stats" alt="Stats" width="25"/> Few stats
 
 [![scraly's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraly)](https://github.com/anuraghazra/github-readme-stats)
 
