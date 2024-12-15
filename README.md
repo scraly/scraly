@@ -7,6 +7,8 @@ Inclusion, diversity and accessibility are topics that matters for me so I help 
 
 Conferences and meetups organizer since 2016. Technical writer ([dev.to/aurelievache](https://dev.to/aurelievache/)), a book author & reviewer, a sketchnoter and a speaker at international conferences.
 
+Creator and Principal Maintainer of [developers.events](https://developers.events).
+
 I created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker in a visual way" in sketchnotes and videos.
 
 Books: https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6
