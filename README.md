@@ -64,11 +64,11 @@ I've been a developer for more than 18 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/scraly/scraly/blob/master/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Kubernetes: part 55 – Kubernetes 1.33 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-55-kubernetes-133-changelog-1k5l)
 - [Understanding Harbor: part 1 – Proxy Cache](https://dev.to/aurelievache/understanding-harbor-part-1-proxy-cache-3dcb)
 - [Understanding Docker: part 48 – Docker Compose Lifecycle hooks](https://dev.to/aurelievache/understanding-docker-part-48-docker-compose-lifecycle-hooks-64n)
 - [Understanding Docker: part 47 – Docker Bake](https://dev.to/aurelievache/understanding-docker-part-47-docker-bake-4p05)
 - [Understanding Kubernetes: part 54 – StatefulSet](https://dev.to/aurelievache/understanding-kubernetes-part-54-statefulset-9mj)
-- [Discover Cyphernetes: a Query Language for Kubernetes](https://dev.to/aurelievache/discover-cyphernetes-a-query-language-for-kubernetes-pg3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
