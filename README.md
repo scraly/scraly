@@ -1,7 +1,7 @@
 ## Hi, I'm Aurélie Vache 👋
 
-I'm a Developer Advocate (DevRel) at [OVHcloud](https://www.ovhcloud.com/fr/) in Toulouse, France.
-I have been working as a Developer and Ops for over 20 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
+I'm a Developer Advocate (DevRel) at [OVHcloud](https://www.ovhcloud.com/fr/) in France.
+I have been working as a Developer and Ops for over 20 years. 
 
 Inclusion, diversity and accessibility are topics that matters for me so I help as I can since several years as mentor & leader in several communities.
 
@@ -28,7 +28,7 @@ I'm Aurélie and I'm:
 * Ex [Camping des Speakers](https://camping-speakers.fr/) & [Toulouse Data Science](https://www.tlse-data-science.fr/) & [DevFest Toulouse](https://devfesttoulouse.fr/) Organizer
 * Speaker, writer & sketchnoter
 
-I've been a developer for more than 18 years, who loves to:
+I've been a developer for more than 20 years, who loves to:
 * share with others
 * write articles especially on [dev.to](https://dev.to/aurelievache), DZone and Programmez! magazine (and more...)
 * give [talks](https://noti.st/aurelievache)
@@ -89,6 +89,13 @@ I've been a developer for more than 18 years, who loves to:
 
 ## <img src="https://icons.getbootstrap.com/assets/icons/mic-fill.svg" title="Talks" alt="Talks" width="25"/> Talks
 
+* [Understanding Kubernetes in a visual way](https://noti.st/aurelievache/X4tRpb/understanding-kubernetes-in-a-visual-way)
+* [“Question pour un conteneur” : Quiz interactif sur les images, les conteneurs, OCI & Docker](https://noti.st/aurelievache/kUoe8s/question-pour-un-conteneur-quiz-interactif-sur-les-images-les-conteneurs-oci-docker)
+* [The Ultimate Container Challenge: An Interactive Trivia Game on OCI, Podman, Docker…](https://noti.st/aurelievache/7F92yo/the-ultimate-container-challenge-an-interactive-trivia-game-on-oci-podman-docker)
+* [In the Eye of Falco: Transforming Your View of Linux Kernel Security](https://noti.st/aurelievache/iz3NvP/in-the-eye-of-falco-transforming-your-view-of-linux-kernel-security)
+* [(What if we learned to) Learn and share differently](https://noti.st/aurelievache/UvQF6P/what-if-we-learned-to-learn-and-share-differently)
+* [TinyGo, petit mais costaud ! 💪](https://noti.st/aurelievache/aESeKY/tinygo-petit-mais-costaud)
+* [Understanding Docker in a visual way](https://noti.st/aurelievache/BhSbjL/understanding-docker-in-a-visual-way)
 * [Plongeons dans la création d’un provider Terraform](https://noti.st/aurelievache/jHXxbW/plongeons-dans-la-creation-dun-provider-terraform)
 * [Kubernetes : le coeur de la meule … comme vous ne l’avez jamais vu](https://noti.st/aurelievache/LbGlTv/kubernetes-le-coeur-de-la-meule-comme-vous-ne-lavez-jamais-vu)
 * [Common tips & mistakes in Go and how to solve them](https://noti.st/aurelievache/cCuew3/common-tips-mistakes-in-go-and-how-to-solve-them)
@@ -103,7 +110,8 @@ I've been a developer for more than 18 years, who loves to:
 * [Docker, Kubernetes & Istio: Tips, tricks & tools](http://bit.ly/docker-k8s-Istio-tips-tricks)
 * [Tips to fight impostor syndrome](https://noti.st/aurelievache/pgjKpF/tips-to-fight-impostor-syndrome)
 * [Dans les coulisses de Google BigQuery](https://noti.st/aurelievache/Gp4J7u/dans-les-coulisses-de-google-bigquery)
-
+* ...
+  
 ## <img src="https://icons.getbootstrap.com/assets/icons/bar-chart-fill.svg" title="Stats" alt="Stats" width="25"/> Few stats
 
 [![scraly's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraly)](https://github.com/anuraghazra/github-readme-stats)
