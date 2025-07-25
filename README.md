@@ -1,7 +1,7 @@
 ## Hi, I'm Aurélie Vache 👋
 
 I'm a Developer Advocate (DevRel) at [OVHcloud](https://www.ovhcloud.com/fr/) in Toulouse, France.
-I have been working as a Developer and Ops for over 18 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
+I have been working as a Developer and Ops for over 20 years. Cloud enthusiast and advocates DevOps/Cloud/Golang best practices. 
 
 Inclusion, diversity and accessibility are topics that matters for me so I help as I can since several years as mentor & leader in several communities.
 
@@ -107,6 +107,8 @@ I've been a developer for more than 18 years, who loves to:
 ## <img src="https://icons.getbootstrap.com/assets/icons/bar-chart-fill.svg" title="Stats" alt="Stats" width="25"/> Few stats
 
 [![scraly's GitHub stats](https://github-readme-stats.vercel.app/api?username=scraly)](https://github.com/anuraghazra/github-readme-stats)
+
+![DevStats Card](https://devstats.me/?username=scraly)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=scraly/developers-conferences-agenda&type=Date)](https://star-history.com/#scraly/developers-conferences-agenda&Date)
 
