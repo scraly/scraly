@@ -118,6 +118,8 @@ I've been a developer for more than 20 years, who loves to:
 
 ![DevStats Card](https://devstats.me/?username=scraly)
 
+https://devstats.cluster.fun/?user=scraly
+
 [![Star History Chart](https://api.star-history.com/svg?repos=scraly/developers-conferences-agenda&type=Date)](https://star-history.com/#scraly/developers-conferences-agenda&Date)
 
 
