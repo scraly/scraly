@@ -13,7 +13,7 @@ I created a new visual way for people to learn and understand Cloud technologies
 
 Books: https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6
 
-<a href="https://twitter.com/aurelievache"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> &nbsp;<a href="https://www.youtube.com/c/AurelieVache"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE"></a>
+<a href="https://twitter.com/aurelievache"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?style=for-the-badge&logo=x&color=1DA1F2">&nbsp;<a href="https://www.youtube.com/c/AurelieVache"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE%20VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE%20SUBSCRIBERS"></a>
 
 ## Who am I?
 
