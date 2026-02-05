@@ -2,6 +2,7 @@
 
 I'm a Developer Advocate (DevRel) at [OVHcloud](https://www.ovhcloud.com/fr/) in France.
 I have been working as a Developer and Ops for over 20 years. 
+Open Source lover.
 
 Inclusion, diversity and accessibility are topics that matters for me so I help as I can since several years as mentor & leader in several communities.
 
@@ -22,10 +23,8 @@ I'm Aurélie and I'm:
 * a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
 * a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
 * a [Docker Captain](https://www.docker.com/community/captains/)
-* a [GitPod Community Hero](https://www.gitpod.io/community/heroes)
 * a [WomenTechmakers Ambassador](https://developers.google.com/womentechmakers/ambassadors)
 * CKAD (Kubernetes for Developers) certified
-* Ex [Camping des Speakers](https://camping-speakers.fr/) & [Toulouse Data Science](https://www.tlse-data-science.fr/) & [DevFest Toulouse](https://devfesttoulouse.fr/) Organizer
 * Speaker, writer & sketchnoter
 
 I've been a developer for more than 20 years, who loves to:
