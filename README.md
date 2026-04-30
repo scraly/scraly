@@ -63,11 +63,11 @@ I've been a developer for more than 20 years, who loves to:
 ## <a href="https://dev.to/aurelievache"><img src="https://github.com/scraly/scraly/blob/master/dev-black.png" title="DEV" alt="DEV" width="25"/></a> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Kubernetes: part 61 – Kubernetes 1.36 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-61-kubernetes-136-changelog-3cak)
 - [Understanding Go: part 13 – Methods](https://dev.to/aurelievache/understanding-go-part-13-methods-585a)
 - [Git by example - The signature you will not forget! &lpar;&quot;missing DCO signoff&quot;&rpar;](https://dev.to/aurelievache/git-by-example-the-signature-you-will-not-forget-missing-dco-signoff-a28)
 - [Understanding Kubernetes: part 60 – Kubernetes 1.35 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-60-kubernetes-135-changelog-1poh)
 - [Understanding Kubernetes: part 59 – Kubernetes 1.34 Changelog](https://dev.to/aurelievache/understanding-kubernetes-part-59-kubernetes-134-changelog-4inc)
-- [Le journal d&#39;une créatrice et &quot;principal maintainer&quot; de provider Pulumi - part 1](https://dev.to/aurelievache/le-journal-dune-creatrice-et-principal-maintainer-de-provider-pulumi-part-1-3f2l)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/aurelievache/)
