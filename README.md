@@ -10,19 +10,26 @@ Conferences and meetups organizer since 2016. Technical writer ([dev.to/aureliev
 
 Creator and Principal Maintainer of [developers.events](https://developers.events).
 
-I created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker in a visual way" in sketchnotes and videos.
+I created a new visual way for people to learn and understand Cloud technologies: "Understanding Kubernetes/Istio/Docker/Kyverno in a visual way" in sketchnotes and videos.
 
 Books: https://www.amazon.com/stores/Aur%C3%A9lie-Vache/author/B09WHB5YR6
 
 <a href="https://twitter.com/aurelievache"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/aurelievache?style=for-the-badge&logo=x&color=1DA1F2">&nbsp;<a href="https://www.youtube.com/c/AurelieVache"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE%20VIEWS">&nbsp;<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCrRk0kOP58lBMl9B8ZS8Vlg?style=for-the-badge&logo=youtube&label=YOUTUBE%20SUBSCRIBERS"></a>
 
+<a href="https://certdirectory.io/profile/aurelie-vache?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/aurelie-vache.svg?style=card&theme=dark">
+    <img alt="Aurelie Vache on CertDirectory" src="https://certdirectory.io/badge/aurelie-vache.svg?style=card">
+  </picture>
+</a>
+
 ## Who am I?
 
 I'm Aurélie and I'm:
 
-* a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
 * a [CNCF Ambassador](https://www.cncf.io/people/ambassadors/)
 * a [Docker Captain](https://www.docker.com/community/captains/)
+* a [Google Developer Expert](https://developers.google.com/community/experts/directory) (GDE) on Cloud technologies
 * a [WomenTechmakers Ambassador](https://developers.google.com/womentechmakers/ambassadors)
 * CKAD (Kubernetes for Developers) certified
 * Speaker, writer & sketchnoter
@@ -78,11 +85,13 @@ I've been a developer for more than 20 years, who loves to:
 
 * [Understanding Kubernetes in a visual way](https://www.amazon.com/Understanding-Kubernetes-visual-way-sketchnotes/dp/B0BB619188)
 * [Understanding Docker in a visual way](https://www.amazon.com/Understanding-Docker-visual-way-sketchnotes/dp/B0BT6ZXR1W)
+* [Understanding Kyverno in a visual way](https://www.amazon.com/Understanding-Kyverno-visual-way-sketchnotes/dp/B0HPZLV5VT)
 * [Understanding (& surviving) travel in a visual way: Vis ma vie de chat noir](https://www.amazon.com/Understanding-surviving-travel-visual-way/dp/B0CRVM8P2Z)
 
 ### Digital books on Gumroad:
 * [Understanding Kubernetes in a visual way](https://gumroad.com/aurelievache#uCxcr)
 * [Understanding Docker in a visual way](https://gumroad.com/aurelievache#YTLzM)
+* [Understanding Kyverno in a visual way](https://aurelievache.gumroad.com/l/understanding-kyverno-visual-way?layout=profile)
 * [Understanding (& surviving) travel in a visual way: Vis ma vie de chat noir](https://aurelievache.gumroad.com/l/understanding-travel-visual-way-fr?layout=profile)
 * [Understanding Istio in a visual way](https://gumroad.com/aurelievache#vJYhM)
 
